@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>שמח</item>
+        <item>עצוב</item>
+        <item>קורץ</item>
+        <item>מוציא לשון</item>
+        <item>מופתע</item>
+        <item>מנשק</item>
+        <item>צועק</item>
+        <item>מגניב</item>
+        <item>פה כסף</item>
+        <item>רגל בפה</item>
+        <item>נבוך</item>
+        <item>מלאך</item>
+        <item>מהסס</item>
+        <item>בוכה</item>
+        <item>שפתיים חתומות</item>
+        <item>צוחק</item>
+        <item>מבולבל</item>
+        <item>לב</item>
+        <item>מטורף</item>
+        <item>מגחך</item>
+        <item>פני פוקר</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>פעם אחת</item>
+        <item>פעמיים</item>
+        <item>שלוש פעמים</item>
+        <item>חמש פעמים</item>
+        <item>עשר פעמים</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>שם</item>
+        <item>כינוי</item>
+        <item>טלפון</item>
+        <item>דוא\"ל</item>
+        <item>חברה</item>
+        <item>IM</item>
+        <item>טלפון SIP</item>
+        <item>יום הולדת</item>
+        <item>אתר</item>
+        <item>כתובת</item>
+        <item>הערה</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>שנייה אחת</item>
+        <item>2 שניות</item>
+        <item>3 שניות</item>
+        <item>4 שניות</item>
+        <item>5 שניות</item>
+        <item>6 שניות</item>
+        <item>7 שניות</item>
+        <item>8 שניות</item>
+        <item>9 שניות</item>
+        <item>10 שניות</item>
+        <item>אחר…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>תמיד</item>
+        <item>במצב שקט בלבד</item>
+        <item>אף פעם</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>

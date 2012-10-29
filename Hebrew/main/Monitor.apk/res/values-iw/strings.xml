@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">צריכת נתונים</string>
+    <string name="duration" formatted="false">משך רישום: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">כבה אוטומטית</string>
+    <string name="menu_refresh">ריענון</string>
+    <string name="menu_sort_by_name">מיין לפי שם</string>
+    <string name="menu_sort_by_traffic">מיין לפי תעבורה</string>
+    <string name="menu_display_system_app">הצג יישומי מערכת</string>
+    <string name="menu_not_display_system_app">הסתר יישומי מערכת</string>
+    <string name="input_max_traffic">חבילה גלישה</string>
+    <string name="input_warning_traffic">הכנס רמת התראה(MB)</string>
+    <string name="max_traffic_monthly">נפח חבילת גלישה</string>
+    <string name="monitor_starting_day">הוסף תאריך תחילת ניטור</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">ללא תעבורה</string>
+    <string name="version_text">גירסה: %1$s</string>
+    <string name="duration_days" formatted="false">%d ימים %d שעות %d דקות</string>
+    <string name="duration_hours" formatted="false">%d שעות %d דקות</string>
+    <string name="duration_minutes">%d דקות</string>
+    <string name="traffic_data">תעבורה</string>
+    <string name="remain">" שמאלה "</string>
+    <string name="threshold">" התראה "</string>
+    <string name="used">" נוצל"</string>
+    <string name="exceed">" חריגה "</string>
+    <string name="settings">הגדר</string>
+    <string name="mobile">אינטרנט</string>
+    <string name="wifi">רשת אלחוטית</string>
+    <string name="mobile_format">אינטרנט: %s</string>
+    <string name="wifi_format">רשת אלחוטית: %s</string>
+    <string name="mobile_traffic">ניצול חבילת גלישה</string>
+    <string name="network_control">ניטור חומת אש של רשת</string>
+    <string name="network_monitor">חומת אש</string>
+    <string name="all_apps">כל היישומים</string>
+    <string name="refresh">ריענון</string>
+    <string name="display_system_app">הצג יישומי מערכת</string>
+    <string name="force_stop">כפה עצירה</string>
+    <string name="app_detail">פרטי יישום</string>
+    <string name="app_detail_control">בקרת נתונים</string>
+    <string name="loading_apps_list">טוען יישומים...</string>
+    <string name="apply_rules_failed_known">לא ידוע</string>
+    <string name="apply_rules_failed">נכשל נסיון להחיל כללי חומת אש, אנא נסה שוב</string>
+    <string name="monitor_settings">העדפות</string>
+    <string name="process_kernel_label">מערכת Android</string>
+    <string name="tether_settings_title_usb">קשירת USB</string>
+    <string name="tether_settings_title_wifi">קשירת Wi-Fi נייד</string>
+    <string name="tether_settings_title_bluetooth">קשירת Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">קשירת USB Bluetooth</string>
+    <string name="tether_settings_title_all">קשירה ונקודה חמה ניידת</string>
+    <string name="data_usage_uninstalled_apps">היישום הוסר</string>
+    <string name="data_usage_cycle_editor_subtitle">"תאריך: "</string>
+    <string name="data_usage_cycle_editor_positive">אשר</string>
+    <string name="data_usage_label_foreground">חזית: %s</string>
+    <string name="data_usage_label_background">רקע: %s</string>
+    <string name="data_usage_restrict_background">הגבל נתוני רקע</string>
+    <string name="data_usage_restrict_background_help">כדי להגביל את השימוש של נתוני יישומים ברקע, נא לקבוע מגבלת נתונים ניידים.</string>
+    <string name="data_usage_restrict_background_title">להגביל את השימוש ברקע?</string>
+    <string name="data_usage_restrict_background_summary">אם אתה מגביל את נתוני הרקע, שירותים לא יפעלו אלא אם כן אתה מחובר לרשת Wi-Fi.</string>
+    <string name="data_usage_app_restrict_dialog">אם אין קישוריות Wi-Fi, תכונה זו עשויה להביא יישומים להשתמש בנתוני רקע.</string>
+</resources>
