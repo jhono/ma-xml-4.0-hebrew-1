@@ -8,9 +8,9 @@
     <string name="gallery_camera_bucket_name">תמונות</string>
     <string name="gallery_camera_videos_bucket_name">ווידאו</string>
     <string name="wait">אנא המתן...</string>
-    <string name="no_storage">אנא הצב את אחסון USB לפני השימוש במצלמה.</string>
+    <string name="no_storage">.אנא הצב את אחסון USB לפני השימוש במצלמה</string>
     <string name="not_enough_space">אחסון USB שלך מלא.</string>
-    <string name="preparing_sd">מכין את אחסון USB...</string>
+    <string name="preparing_sd">...מכין את אחסון USB</string>
     <string name="access_sd_fail">לא ניתן לגשת לאחסון USB.</string>
     <string name="confirm_restore_title">שחזר ברירת מחדל</string>
     <string name="confirm_restore_message">הגדרות המצלמה ישוחזרו לברירת המחדל.</string>
@@ -193,16 +193,15 @@
     <string name="pref_camera_scenedetect_title">אותור סצנה אוטומאטי</string>
     <string name="pref_camera_scenedetect_entry_off">כבה</string>
     <string name="pref_camera_scenedetect_entry_on">הפעל</string>
-    <string name="not_selectable_in_scene_mode">"לא ניתן לבחירה במצב 'סגנון תמונה'"</string>
+    <string name="not_selectable_in_scene_mode">לא ניתן לבחירה במצב \'סגנון תמונה</string>
     <string name="pref_restore_title">הגדרות מצלמה</string>
     <string name="pref_restore_detail">שחזר ברירת מחדל</string>
-    <string name="pref_exposure_title">חסיפה</string>
+    <string name="pref_exposure_title">חשיפה</string>
     <string name="pref_exposure_default">0</string>
     <string name="pref_camera_denoise_title">מצב רעש</string>
     <string name="pref_camera_denoise_default">denoise-off</string>
     <string name="pref_camera_denoise_entry_off">כבה</string>
     <string name="pref_camera_denoise_entry_on">הפעל</string>
-    <string name="pref_camera_iso_default">auto</string>
     <string name="pref_camera_iso_title">בחר ISO</string>
     <string name="pref_camera_iso_entry_auto">אוטומאטי</string>
     <string name="pref_camera_iso_entry_isodeblur">ISO אוטומטי (HJR)</string>
@@ -211,7 +210,6 @@
     <string name="pref_camera_iso_entry_iso400">ISO400</string>
     <string name="pref_camera_iso_entry_iso800">ISO800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_value_auto">auto</string>
     <string name="pref_camera_iso_value_isodeblur">ISO_HJR</string>
     <string name="pref_camera_iso_value_iso100">ISO100</string>
     <string name="pref_camera_iso_value_iso200">ISO200</string>
@@ -269,9 +267,9 @@
     <string name="effect_backdropper_sunset">שקיעה</string>
     <string name="effect_backdropper_disco">דיסקו</string>
     <string name="effect_backdropper_gallery">בחר משלך</string>
-    <string name="bg_replacement_message">"הנח את מכשירך על משטח ישר ויציב ותוודא שאין תנועה מאחוריך.        
-ואז צא מסדה הראיה של המצלמה."</string>
-    <string name="not_selectable_in_effect">"לא ניתן לבחירה במצב 'אפקטים'"</string>
+    <string name="bg_replacement_message">הנח את מכשירך על משטח ישר ויציב ותוודא שאין תנועה מאחוריך.        
+ואז צא מסדה הראיה של המצלמה.</string>
+    <string name="not_selectable_in_effect">לא ניתן לבחירה במצב \'אפקטים\'</string>
     <string name="video_snapshot_hint">צלם תמונה במהלך הקלטת וידאו על ידי הקשה על מס התצוגה מקדימה.</string>
     <string name="disable_video_snapshot_hint">תצלום וידאו מושבת כאשר אפקטים מיוחדים מופעלים.</string>
     <string name="clear_effects">נקה אפקטים</string>
@@ -319,13 +317,11 @@
     <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
     <string name="pref_camera_zsl_title">ZSL</string>
     <string name="pref_camera_zsl_default">off</string>
-    <string name="pref_camera_selectablezoneaf_default">auto</string>
     <string name="pref_camera_selectablezoneaf_title">בחירת אזור פוקוס אוטומאטי</string>
     <string name="pref_camera_selectablezoneaf_entry_auto">אוטומאטי</string>
     <string name="pref_camera_selectablezoneaf_entry_spotmetering">מקום מדידת האור</string>
     <string name="pref_camera_selectablezoneaf_entry_centerweighted">שיקלול מרכז</string>
     <string name="pref_camera_selectablezoneaf_entry_frameaverage">ממוצע מסגרת</string>
-    <string name="pref_camera_selectablezoneaf_value_auto">auto</string>
     <string name="pref_camera_selectablezoneaf_value_spotmetering">spot-metering</string>
     <string name="pref_camera_selectablezoneaf_value_centerweighted">center-weighted</string>
     <string name="pref_camera_selectablezoneaf_value_frameaverage">frame-average</string>

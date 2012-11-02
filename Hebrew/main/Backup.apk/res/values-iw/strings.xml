@@ -22,7 +22,7 @@
     <string name="cancel">בטל</string>
     <string name="delete_backup">מחק</string>
     <string name="delete_backup_confirm">הגיבוי יוסר, להמשיך?</string>
-    <string name="delete_backup_process">מוחק גיבויים...</string>
+    <string name="delete_backup_process">...מוחק גיבויים</string>
     <string name="backup_error">שגיאה בגיבוי</string>
     <string name="delete_failed_backup_confirm">נכשל במחיקה, גיבוי בהליכים</string>
     <string name="batch_delete_backup_confirm">"
@@ -41,9 +41,9 @@
     <string name="account_summary">גבה את חשבון Gmail, דוא\"ל ו-Xiaomi</string>
     <string name="cloud_app_name">גיבוי מקוון</string>
     <string name="cloud_home_title">גיבוי מקוון</string>
-    <string name="prompt_reading">קורא...</string>
-    <string name="prompt_sending">שולח...</string>
-    <string name="prompt_writing">כותב...</string>
+    <string name="prompt_reading">...קורא</string>
+    <string name="prompt_sending">...שולח</string>
+    <string name="prompt_writing">...כותב</string>
     <string name="backup_new">חדש</string>
     <string name="backup_update">עדכון</string>
     <string name="backup_delete">מחיקה</string>
@@ -99,7 +99,7 @@
     <string name="task_restore_cancel_dialog">"השחזור לא הושלם
 ביטול שחזור עלול לגרום לשגיאות בישומים"</string>
     <string name="task_backup_cancel_progress">מבטל גיבוי...</string>
-    <string name="task_restore_cancel_progress">מבטל...</string>
+    <string name="task_restore_cancel_progress">...מבטל</string>
     <string name="nothing_searched">תוצאות החיפוש ריקות, לא נמצא דבר.</string>
     <string name="restore_counts">השחזור:</string>
     <string name="service_stoped">השירות הופסק.</string>

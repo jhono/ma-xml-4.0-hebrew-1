@@ -148,7 +148,7 @@
     <string name="status_bar_recent_memory_info_format">%dM</string>
     <string name="usb_mode_notification">אחסון USB</string>
     <string name="usb_mode_dont_ask">אל תשאל שוב</string>
-    <string name="usb_mode_mount_storage_title">לפתןח אחסון חיצוני עכשיו?</string>
+    <string name="usb_mode_mount_storage_title">לפתוח אחסון חיצוני עכשיו?</string>
     <string name="mount_storage">כן</string>
     <string name="dismount_storage">לא</string>
     <string name="move_data_to_sdcard_title">ייצאו מידע פנימי לכרטיס הזיכרון</string>

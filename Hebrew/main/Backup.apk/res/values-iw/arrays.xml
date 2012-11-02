@@ -7,6 +7,10 @@
     <string-array name="system_package_label">
         <item>דפדפן</item>
 		<item>סייר קבצים</item>
+		<item>גלריה</item>
+		<item>מנהל ההרשאות</item>
+		<item>מצלמה</item>
+		<item>סייען הרשת</item>
     </string-array>
     <string-array name="system_data_label">
         <item>אנשי קשר</item>

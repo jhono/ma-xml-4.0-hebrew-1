@@ -168,6 +168,7 @@
     <string name="playback_failed_no_title_by_network">לא יכול להתנגן אנא בדוק הגדרות רשת</string>
     <string name="buffering">חציצה</string>
     <string name="musicbrowserlabel">מוזיקה</string>
+    <string name="music_browser_label">מוזיקה</string>
     <string name="mediaplaybacklabel">מוזיקה</string>
     <string name="online_music">מוזיקה מקוונת</string>
     <string name="artists_title">אומנים</string>
